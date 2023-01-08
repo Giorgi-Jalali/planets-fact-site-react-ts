@@ -27,6 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Giorgi-Jalali/planets-fact-site-react-ts)
+
 - Live Site URL: [Vercel](https://planets-fact-site-react-ts.vercel.app/)
 
 ## My process
