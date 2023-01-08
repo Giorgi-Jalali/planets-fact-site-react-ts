@@ -34,13 +34,13 @@ const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Root />}>
       <Route index element={<Mercury />} />
-      <Route path="venus" element={<Venus />} />
-      <Route path="earth" element={<Earth />} />
-      <Route path="mars" element={<Mars />} />
-      <Route path="jupiter" element={<Jupiter />} />
-      <Route path="saturn" element={<Saturn />} />
-      <Route path="uranus" element={<Uranus />} />
-      <Route path="neptune" element={<Neptune />} />
+      <Route path="/venus" element={<Venus />} />
+      <Route path="/earth" element={<Earth />} />
+      <Route path="/mars" element={<Mars />} />
+      <Route path="/jupiter" element={<Jupiter />} />
+      <Route path="/saturn" element={<Saturn />} />
+      <Route path="/uranus" element={<Uranus />} />
+      <Route path="/neptune" element={<Neptune />} />
     </Route>
   )
 );
