@@ -1,0 +1,10 @@
+[
+  { "name": "MERCURY", "color": "#419EBB", "path": "/" },
+  { "name": "VENUS", "color": "#F7CC7F", "path": "venus" },
+  { "name": "EARTH", "color": "#545BFE", "path": "earth" },
+  { "name": "MARS", "color": "#FF6A45", "path": "mars" },
+  { "name": "JUPITER", "color": "#ECAD7A", "path": "jupiter" },
+  { "name": "SATURN", "color": "#FCCB6B", "path": "saturn" },
+  { "name": "URANUS", "color": "#65F0D5", "path": "uranus" },
+  { "name": "NEPTUNE", "color": "#497EFA", "path": "neptune" }
+]
